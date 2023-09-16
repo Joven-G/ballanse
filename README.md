@@ -140,7 +140,6 @@ Thanks a lot in advance!
 </p>
 <hr>
 <br>
-<h3 align="left">My GitHub Stats:</h3>
 <div>
 
 </div>
