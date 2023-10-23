@@ -1,13 +1,13 @@
 
-💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
+💧 FrontEnd: React, Next.js, Remix, Vue, Python, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js
+🔸 BackEnd: Node.js, ExpressJS, Django, Nest.js
 
-☀️ Mobile App: React Native
+☀️ Mobile App: React Native, Flutter , Swift , IOS , Android
 
 🚀 Database: PostgreSQL, MySQL, MongoDB
 
-💧 Web Development/Design:Mobile App Design, E-commerce, WooCommerce
+💧 Web Development/Design , Mobile App Design, E-commerce, WooCommerce
 
 Thanks a lot in advance! 
 
