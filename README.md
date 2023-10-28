@@ -1,7 +1,7 @@
 
 💧 FrontEnd: React, Next.js, Remix, Vue, Python, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
 
-🔸 BackEnd: Node.js, ExpressJS, Django, Nest.js
+🔸 BackEnd: Node.js, ExpressJS, Django, Nest.js ,Wordpress , Shopify
 
 ☀️ Mobile App: React Native, Flutter , Swift , IOS , Android
 
@@ -134,6 +134,14 @@ Thanks a lot in advance!
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="Electron.js" />
       <br>Electron
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=Wordpress" width="45" height="45" alt="Wordpress.js" />
+      <br>Wordpress
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=Shopify" width="45" height="45" alt="Shopify.js" />
+      <br>Shopify
     </td>
   </tr>
 </table>
